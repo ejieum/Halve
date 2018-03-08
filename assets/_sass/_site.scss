@@ -421,7 +421,7 @@ canvas {
       -ms-transform: none;
       -o-transform: none;
       transform: none;
-      background: $green;
+      background: darken($white, 40);
       left: 0;
       width: 250px;
     }
